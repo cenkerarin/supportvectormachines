@@ -6,7 +6,6 @@ Comparison with our from-scratch implementation to demonstrate:
 3. Advanced features available in scikit-learn
 4. Industry-standard usage patterns
 """
-
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.svm import SVC
