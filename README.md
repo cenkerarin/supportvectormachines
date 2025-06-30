@@ -1,8 +1,6 @@
 # Support Vector Machine (SVM) from Scratch
 
-An educational implementation of Support Vector Machines using only NumPy and Matplotlib, designed to help you understand SVM theory deeply.
-
-## What You'll Learn
+An educational implementation of Support Vector Machines using only NumPy and Matplotlib, designed to help me understand SVM theory deeply.
 
 This implementation covers all the fundamental SVM concepts:
 
